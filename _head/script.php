@@ -1,0 +1,1 @@
+<script defer src="public/assets/fontawesome/js/all.js"></script>
